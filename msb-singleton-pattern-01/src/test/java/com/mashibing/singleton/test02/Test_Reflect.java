@@ -21,7 +21,8 @@ public class Test_Reflect {
 
 //        Singleton_06 instance = constructor.newInstance();
 
-        Singleton_05 instance = constructor.newInstance();
-        System.out.println(instance);
+        Singleton_05 instance1 = constructor.newInstance();
+        Singleton_05 instance2 = constructor.newInstance();
+        System.out.println(instance1 == instance2);
     }
 }

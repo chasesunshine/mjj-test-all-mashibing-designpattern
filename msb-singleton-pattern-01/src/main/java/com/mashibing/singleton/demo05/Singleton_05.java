@@ -10,6 +10,10 @@ public class Singleton_05 {
 
     private Singleton_05(){
 
+        // 这地方 正常情况下 没有以下代码是不会加载内部类的，指挥直接的创建一个 Singleton_05 对象
+        // 但是 加了 if(SingletonHandler.instance != null)，其中 SingletonHandler.instance != null
+        // 就要去加载内部内，然后执行 private static Singleton_05 instance = new Singleton_05();
+        // 因此就创建 instance 对象了
         if(SingletonHandler.instance != null){
             throw new RuntimeException("不允许非法访问");
         }
