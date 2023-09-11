@@ -30,3 +30,32 @@ public class DeliverController {
         return responseResult;
     }
 }
+
+
+// 老写法
+//public class DeliverController {
+//
+//    /**
+//     * 按照类型的不同发放商品
+//     */
+//    public ResponseResult awardToUser(AwardInfo awardInfo){
+//
+//        FreeGoodsFactory freeGoodsFactory = null;
+//
+//        if(awardInfo.getAwardType() == 1){
+//
+//            freeGoodsFactory = new DiscountFreeGoodsFactory();
+//        }else if(awardInfo.getAwardType() == 2){
+//
+//            freeGoodsFactory = new SmallGiftFreeGoodsFactory();
+//        }
+//
+//        IFreeGoods freeGoods = freeGoodsFactory.getInstance();
+//
+//        System.out.println("=====工厂方法模式========");
+//        ResponseResult result = freeGoods.sendFreeGoods(awardInfo);
+//
+//        return result;
+//    }
+//
+//}
