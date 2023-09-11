@@ -33,5 +33,8 @@ public class FreeGoodsFactoryMap {
         }
 
         return null;
+
+//        FreeGoodsFactory freeGoodsFactory = cachedFactories.get(1);
+//        return freeGoodsFactory;
     }
 }
