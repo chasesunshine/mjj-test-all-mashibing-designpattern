@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>msb-singleton-pattern-01</artifactId>
+    <artifactId>01-msb-singleton-pattern</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

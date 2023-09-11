@@ -8,6 +8,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/01-msb-singleton-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/02-msb-factory-pattern/pom.xml" />
       </list>
     </option>
   </component>

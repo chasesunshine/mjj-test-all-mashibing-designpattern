@@ -10,8 +10,8 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>msb-singleton-pattern-01</module>
-        <module>msb-factory-pattern-02</module>
+        <module>01-msb-singleton-pattern</module>
+        <module>02-msb-factory-pattern</module>
     </modules>
 
     <properties>

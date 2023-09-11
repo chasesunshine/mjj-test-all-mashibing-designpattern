@@ -7,9 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="msb-singleton-pattern-01" />
-        <module name="msb-factory-pattern-02" />
+        <module name="02-msb-factory-pattern" />
+        <module name="01-msb-singleton-pattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="msb-factory-pattern-02" target="1.8" />
+      <module name="msb-singleton-pattern-01" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

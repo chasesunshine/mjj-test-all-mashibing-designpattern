@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>msb-factory-pattern-02</artifactId>
+    <artifactId>02-msb-factory-pattern</artifactId>
 
 
 </project>
