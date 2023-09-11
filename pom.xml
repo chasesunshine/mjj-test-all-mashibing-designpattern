@@ -12,6 +12,7 @@
     <modules>
         <module>01-msb-singleton-pattern</module>
         <module>02-msb-factory-pattern</module>
+        <module>msb-builder-pattern-03</module>
     </modules>
 
     <properties>
