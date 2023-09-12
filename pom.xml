@@ -13,7 +13,7 @@
         <module>01-msb-singleton-pattern</module>
         <module>02-msb-factory-pattern</module>
         <module>03-msb-builder-pattern</module>
-        <module>msb-prototype-pattern-04</module>
+        <module>04-msb-prototype-pattern</module>
     </modules>
 
     <properties>
