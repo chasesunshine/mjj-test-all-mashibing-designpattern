@@ -8,12 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="02-msb-factory-pattern" />
-        <module name="msb-builder-pattern-03" />
+        <module name="03-msb-builder-pattern" />
         <module name="01-msb-singleton-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="03-msb-builder-pattern" target="1.8" />
+      <module name="msb-builder-pattern-03" target="1.8" />
       <module name="msb-factory-pattern-02" target="1.8" />
       <module name="msb-singleton-pattern-01" target="1.8" />
     </bytecodeTargetLevel>

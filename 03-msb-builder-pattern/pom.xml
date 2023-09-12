@@ -9,6 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>msb-builder-pattern-03</artifactId>
+    <artifactId>03-msb-builder-pattern</artifactId>
 
 </project>

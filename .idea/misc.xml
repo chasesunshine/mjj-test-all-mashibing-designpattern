@@ -10,12 +10,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/01-msb-singleton-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/02-msb-factory-pattern/pom.xml" />
-      </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
+        <option value="$PROJECT_DIR$/msb-builder-pattern-03/pom.xml" />
         <option value="$PROJECT_DIR$/03-msb-builder-pattern/pom.xml" />
-      </set>
+      </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
