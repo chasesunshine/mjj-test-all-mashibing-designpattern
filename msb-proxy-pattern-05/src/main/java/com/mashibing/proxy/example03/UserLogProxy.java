@@ -51,6 +51,6 @@ public class UserLogProxy implements MethodInterceptor {
 
         System.out.println(format.format(instance.getTime()) + "[ " +method.getName() +"] 查询用户信息...");
         Object result = methodProxy.invokeSuper(o, args);
-        return null;
+        return result;
     }
 }
