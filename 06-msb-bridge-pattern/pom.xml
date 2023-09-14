@@ -9,6 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>msb-bridge-pattern-06</artifactId>
+    <artifactId>06-msb-bridge-pattern</artifactId>
 
 </project>
