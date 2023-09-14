@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/msb-builder-pattern-03/pom.xml" />
         <option value="$PROJECT_DIR$/03-msb-builder-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/04-msb-prototype-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/05-msb-proxy-pattern/pom.xml" />
       </list>
     </option>
   </component>
