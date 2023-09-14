@@ -37,6 +37,5 @@ public class Test_Pay {
         System.out.println("测试场景2: 支付宝支付,指纹方式");
         Pay zfbPay = new ZfbPay(new PayFingerprintMode());
         zfbPay.transfer("zfb_0001001","100090009",new BigDecimal(400));
-
     }
 }
