@@ -41,6 +41,8 @@ public class TestProxy {
         IUserDao userDao = new UserDaoImpl();
         System.out.println(userDao.getClass()); //目标对象的信息
 
+        System.getProperties().put("sun.misc.ProxyGenerator.saveGeneratedFiles", "true");
+
         IUserDao proxy = (IUserDao) new ProxyFactory(userDao).getProxyInstance();//获取代理对象
         System.out.println(proxy.getClass());
         proxy.save();//代理方法
