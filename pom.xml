@@ -15,6 +15,7 @@
         <module>03-msb-builder-pattern</module>
         <module>04-msb-prototype-pattern</module>
         <module>05-msb-proxy-pattern</module>
+        <module>msb-bridge-pattern-06</module>
     </modules>
 
     <properties>
