@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/04-msb-prototype-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/05-msb-proxy-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/06-msb-bridge-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/07-msb-decorator-pattern/pom.xml" />
       </list>
     </option>
   </component>
