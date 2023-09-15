@@ -17,6 +17,7 @@
         <module>05-msb-proxy-pattern</module>
         <module>06-msb-bridge-pattern</module>
         <module>07-msb-decorator-pattern</module>
+        <module>msb-adapter-pattern-08</module>
     </modules>
 
     <properties>

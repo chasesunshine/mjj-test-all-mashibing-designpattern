@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="06-msb-bridge-pattern" />
+        <module name="msb-adapter-pattern-08" />
         <module name="02-msb-factory-pattern" />
         <module name="04-msb-prototype-pattern" />
         <module name="05-msb-proxy-pattern" />
