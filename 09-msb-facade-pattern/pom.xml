@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>msb-facade-pattern-09</artifactId>
+    <artifactId>09-msb-facade-pattern</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
