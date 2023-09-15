@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>msb-adapter-pattern-08</artifactId>
+    <artifactId>08-msb-adapter-pattern</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
