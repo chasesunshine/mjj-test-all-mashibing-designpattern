@@ -18,6 +18,7 @@
         <module>06-msb-bridge-pattern</module>
         <module>07-msb-decorator-pattern</module>
         <module>08-msb-adapter-pattern</module>
+        <module>msb-facade-pattern-09</module>
     </modules>
 
     <properties>
