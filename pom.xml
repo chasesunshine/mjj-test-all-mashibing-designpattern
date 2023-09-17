@@ -19,6 +19,7 @@
         <module>07-msb-decorator-pattern</module>
         <module>08-msb-adapter-pattern</module>
         <module>09-msb-facade-pattern</module>
+        <module>10-msb-composite-pattern</module>
     </modules>
 
     <properties>
