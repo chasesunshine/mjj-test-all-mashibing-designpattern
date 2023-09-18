@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>msb-observer-pattern-12</artifactId>
+    <artifactId>12-msb-observer-pattern</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
