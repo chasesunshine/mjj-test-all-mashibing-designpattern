@@ -22,6 +22,7 @@
         <module>10-msb-composite-pattern</module>
         <module>11-msb-flyweight-pattern</module>
         <module>12-msb-observer-pattern</module>
+        <module>msb-templatemethod-pattern-13</module>
     </modules>
 
     <properties>
