@@ -21,6 +21,7 @@
         <module>09-msb-facade-pattern</module>
         <module>10-msb-composite-pattern</module>
         <module>11-msb-flyweight-pattern</module>
+        <module>msb-observer-pattern-12</module>
     </modules>
 
     <properties>
@@ -44,6 +45,11 @@
             <groupId>cglib</groupId>
             <artifactId>cglib</artifactId>
             <version>3.2.12</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.8</version>
         </dependency>
     </dependencies>
 
