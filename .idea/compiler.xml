@@ -13,6 +13,7 @@
         <module name="09-msb-facade-pattern" />
         <module name="12-msb-observer-pattern" />
         <module name="14-msb-strategy-pattern" />
+        <module name="msb-Iterator-pattern-17" />
         <module name="11-msb-flyweight-pattern" />
         <module name="15-msb-chainofresponsibility-pattern" />
         <module name="02-msb-factory-pattern" />

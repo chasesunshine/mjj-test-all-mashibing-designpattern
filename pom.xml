@@ -26,6 +26,7 @@
         <module>14-msb-strategy-pattern</module>
         <module>15-msb-chainofresponsibility-pattern</module>
         <module>16-msb-state-pattern</module>
+        <module>msb-Iterator-pattern-17</module>
     </modules>
 
     <properties>
