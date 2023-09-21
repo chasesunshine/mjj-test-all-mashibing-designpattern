@@ -26,8 +26,7 @@ public class AuthController {
         //查询是否存在审核信息,虚拟三级审核人ID: 1000013
         date = AuthService.queryAuthInfo("1000013", orderId);
         if(date == null){
-            return new AuthInfo("0001","单号: " + orderId ,
-                    "状态: 等待三级审批负责人进行审批");
+            return new AuthInfo("0001","单号: " + orderId , "状态: 等待三级审批负责人进行审批");
         }
 
 
@@ -42,8 +41,7 @@ public class AuthController {
             date = AuthService.queryAuthInfo("1000012",orderId);
 
             if(date == null){
-                return new AuthInfo("0001","单号: " + orderId ,
-                        "状态: 等待二级审批负责人进行审批");
+                return new AuthInfo("0001","单号: " + orderId , "状态: 等待二级审批负责人进行审批");
             }
         }
 
@@ -57,8 +55,7 @@ public class AuthController {
             date = AuthService.queryAuthInfo("1000011",orderId);
 
             if(date == null){
-                return new AuthInfo("0001","单号: " + orderId ,
-                        "状态: 等待一级审批负责人进行审批");
+                return new AuthInfo("0001","单号: " + orderId , "状态: 等待一级审批负责人进行审批");
             }
         }
 

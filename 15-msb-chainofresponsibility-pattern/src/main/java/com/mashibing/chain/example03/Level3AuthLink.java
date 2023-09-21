@@ -22,15 +22,13 @@ public class Level3AuthLink extends AuthLink {
         Date date = AuthService.queryAuthInfo(levelUserId, orderId);
 
         if(null == date){
-            return new AuthInfo("0001","单号: "+
-                    orderId," 状态: 待三级审核人审批", levelUserName);
+            return new AuthInfo("0001","单号: "+ orderId," 状态: 待三级审核人审批", levelUserName);
         }
 
         AuthLink next = super.getNext();
 
         if(next == null){
-            return new AuthInfo("0000","单号: "+
-                    orderId," 状态: 三级审批完成", "审批人: " + levelUserName);
+            return new AuthInfo("0000","单号: "+ orderId," 状态: 三级审批完成", "审批人: " + levelUserName);
         }
 
         return next.doAuth(uId,orderId,authDate);

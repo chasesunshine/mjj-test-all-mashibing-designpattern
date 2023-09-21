@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>msb-chainofresponsibility-pattern-15</artifactId>
+    <artifactId>15-msb-chainofresponsibility-pattern</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.slf4j</groupId>

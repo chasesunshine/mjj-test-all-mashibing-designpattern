@@ -24,7 +24,7 @@
         <module>12-msb-observer-pattern</module>
         <module>13-msb-templatemethod-pattern</module>
         <module>14-msb-strategy-pattern</module>
-        <module>msb-chainofresponsibility-pattern-15</module>
+        <module>15-msb-chainofresponsibility-pattern</module>
     </modules>
 
     <properties>
