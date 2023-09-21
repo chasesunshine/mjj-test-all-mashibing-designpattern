@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/13-msb-templatemethod-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/14-msb-strategy-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/15-msb-chainofresponsibility-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/16-msb-state-pattern/pom.xml" />
       </list>
     </option>
   </component>

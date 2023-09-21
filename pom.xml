@@ -25,6 +25,7 @@
         <module>13-msb-templatemethod-pattern</module>
         <module>14-msb-strategy-pattern</module>
         <module>15-msb-chainofresponsibility-pattern</module>
+        <module>16-msb-state-pattern</module>
     </modules>
 
     <properties>

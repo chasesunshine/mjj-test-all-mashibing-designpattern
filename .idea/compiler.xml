@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="13-msb-templatemethod-pattern" />
         <module name="06-msb-bridge-pattern" />
+        <module name="16-msb-state-pattern" />
         <module name="09-msb-facade-pattern" />
         <module name="12-msb-observer-pattern" />
         <module name="14-msb-strategy-pattern" />
@@ -31,6 +32,7 @@
       <module name="msb-factory-pattern-02" target="1.8" />
       <module name="msb-prototype-pattern-04" target="1.8" />
       <module name="msb-singleton-pattern-01" target="1.8" />
+      <module name="msb-state-pattern-16" target="1.8" />
       <module name="msb-strategy-pattern-14" target="1.8" />
     </bytecodeTargetLevel>
   </component>
