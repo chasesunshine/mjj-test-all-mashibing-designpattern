@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="13-msb-templatemethod-pattern" />
         <module name="06-msb-bridge-pattern" />
+        <module name="20-msb-command-pattern" />
         <module name="16-msb-state-pattern" />
         <module name="09-msb-facade-pattern" />
         <module name="12-msb-observer-pattern" />

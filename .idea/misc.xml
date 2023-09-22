@@ -25,6 +25,7 @@
         <option value="$PROJECT_DIR$/17-msb-Iterator-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/18-msb-visitor-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/19-msb-memento-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/20-msb-command-pattern/pom.xml" />
       </list>
     </option>
   </component>

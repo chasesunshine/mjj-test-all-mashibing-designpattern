@@ -29,6 +29,7 @@
         <module>17-msb-Iterator-pattern</module>
         <module>18-msb-visitor-pattern</module>
         <module>19-msb-memento-pattern</module>
+        <module>20-msb-command-pattern</module>
     </modules>
 
     <properties>
