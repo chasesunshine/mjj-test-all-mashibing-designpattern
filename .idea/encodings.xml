@@ -35,6 +35,8 @@
     <file url="file://$PROJECT_DIR$/16-msb-state-pattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/17-msb-Iterator-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/17-msb-Iterator-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/18-msb-visitor-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/18-msb-visitor-pattern/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

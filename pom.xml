@@ -27,6 +27,7 @@
         <module>15-msb-chainofresponsibility-pattern</module>
         <module>16-msb-state-pattern</module>
         <module>17-msb-Iterator-pattern</module>
+        <module>18-msb-visitor-pattern</module>
     </modules>
 
     <properties>

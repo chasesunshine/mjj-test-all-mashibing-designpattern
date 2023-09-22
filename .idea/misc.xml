@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/15-msb-chainofresponsibility-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/16-msb-state-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/17-msb-Iterator-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/18-msb-visitor-pattern/pom.xml" />
       </list>
     </option>
   </component>
