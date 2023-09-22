@@ -12,6 +12,7 @@
         <module name="16-msb-state-pattern" />
         <module name="09-msb-facade-pattern" />
         <module name="12-msb-observer-pattern" />
+        <module name="19-msb-memento-pattern" />
         <module name="14-msb-strategy-pattern" />
         <module name="11-msb-flyweight-pattern" />
         <module name="15-msb-chainofresponsibility-pattern" />

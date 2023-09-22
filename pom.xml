@@ -28,6 +28,7 @@
         <module>16-msb-state-pattern</module>
         <module>17-msb-Iterator-pattern</module>
         <module>18-msb-visitor-pattern</module>
+        <module>19-msb-memento-pattern</module>
     </modules>
 
     <properties>
