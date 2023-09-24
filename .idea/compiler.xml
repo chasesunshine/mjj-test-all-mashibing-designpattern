@@ -24,6 +24,7 @@
         <module name="18-msb-visitor-pattern" />
         <module name="16-msb-state-pattern" />
         <module name="04-msb-prototype-pattern" />
+        <module name="22-msb-mediator-pattern" />
         <module name="05-msb-proxy-pattern" />
         <module name="01-msb-singleton-pattern" />
         <module name="12-msb-observer-pattern" />

@@ -26,5 +26,7 @@
     <file url="file://$PROJECT_DIR$/20-msb-command-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/21-msb-interperter-pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/21-msb-interperter-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/22-msb-mediator-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/22-msb-mediator-pattern/src/main/resources" charset="UTF-8" />
   </component>
 </project>
