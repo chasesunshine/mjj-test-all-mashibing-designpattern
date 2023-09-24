@@ -30,6 +30,7 @@
         <module>18-msb-visitor-pattern</module>
         <module>19-msb-memento-pattern</module>
         <module>20-msb-command-pattern</module>
+        <module>21-msb-interperter-pattern</module>
     </modules>
 
     <properties>
