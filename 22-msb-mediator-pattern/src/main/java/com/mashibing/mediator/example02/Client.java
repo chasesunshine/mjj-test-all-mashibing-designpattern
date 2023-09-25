@@ -1,5 +1,8 @@
 package com.mashibing.mediator.example02;
 
+import com.mashibing.mediator.example02.person.HouseOwner;
+import com.mashibing.mediator.example02.person.Tenant;
+
 /**
  * @author spikeCong
  * @date 2022/10/21

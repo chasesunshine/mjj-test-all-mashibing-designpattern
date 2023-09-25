@@ -1,5 +1,7 @@
 package com.mashibing.mediator.example02;
 
+import com.mashibing.mediator.example02.person.Person;
+
 /**
  * 具体的中介者-中介机构
  * @author spikeCong

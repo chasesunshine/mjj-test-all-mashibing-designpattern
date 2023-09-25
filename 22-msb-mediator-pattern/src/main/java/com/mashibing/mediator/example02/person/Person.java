@@ -1,4 +1,6 @@
-package com.mashibing.mediator.example02;
+package com.mashibing.mediator.example02.person;
+
+import com.mashibing.mediator.example02.Mediator;
 
 /**
  * 抽象同事类

@@ -1,4 +1,6 @@
-package com.mashibing.mediator.example02;
+package com.mashibing.mediator.example02.person;
+
+import com.mashibing.mediator.example02.Mediator;
 
 /**
  * 具体同事类-承租人

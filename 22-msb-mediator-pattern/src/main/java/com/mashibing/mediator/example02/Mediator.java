@@ -1,5 +1,9 @@
 package com.mashibing.mediator.example02;
 
+import com.mashibing.mediator.example02.person.HouseOwner;
+import com.mashibing.mediator.example02.person.Person;
+import com.mashibing.mediator.example02.person.Tenant;
+
 /**
  * 抽象中介者
  * @author spikeCong
