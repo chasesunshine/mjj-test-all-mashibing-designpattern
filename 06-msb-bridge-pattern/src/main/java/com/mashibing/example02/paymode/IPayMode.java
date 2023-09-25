@@ -1,4 +1,4 @@
-package com.mashibing.example02;
+package com.mashibing.example02.paymode;
 
 /**
  * 支付模式接口

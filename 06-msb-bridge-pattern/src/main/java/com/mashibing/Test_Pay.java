@@ -2,6 +2,8 @@ package com.mashibing;
 
 import com.mashibing.example01.PayController;
 import com.mashibing.example02.*;
+import com.mashibing.example02.paymode.PayFaceMode;
+import com.mashibing.example02.paymode.PayFingerprintMode;
 import org.junit.Test;
 
 import java.math.BigDecimal;

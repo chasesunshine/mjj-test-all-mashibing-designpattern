@@ -1,5 +1,7 @@
 package com.mashibing.example02;
 
+import com.mashibing.example02.paymode.IPayMode;
+
 import java.math.BigDecimal;
 
 /**

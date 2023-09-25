@@ -1,4 +1,4 @@
-package com.mashibing.example02;
+package com.mashibing.example02.paymode;
 
 /**
  * 刷脸支付
