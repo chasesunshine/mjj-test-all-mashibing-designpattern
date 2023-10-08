@@ -29,7 +29,7 @@ public class ReceiptHandleStrategyFactory {
 //        strategyMap.put("MT2101",new MT2101ReceiptHandleStrategy());
         try {
             SAXReader reader = new SAXReader();
-            String file = "D:\\allWorkSpace\\ideaWorkSpace\\mjjOwner\\mjj-test-all-mashibing-designpattern\\msb-strategy-pattern-14\\src\\main\\resources\\config.xml";
+            String file = "D:\\allWorkSpace\\ideaWorkSpace\\mjjOwner\\mjj-test-all-mashibing-designpattern\\14-msb-strategy-pattern\\src\\main\\resources\\config.xml";
 
             Document document = reader.read(file);
             Node node = document.selectSingleNode("/confing/className");
